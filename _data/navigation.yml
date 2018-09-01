@@ -1,0 +1,12 @@
+# Site navigation links
+
+- title: Oneletrajz
+  url: /cv/
+- title: Publikaciok
+  url: /publications/
+- title: Magamrol
+  url: /about/
+- title: Oktatas
+  url: /teaching/
+- title: Kutatas
+  url: /research/
