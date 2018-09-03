@@ -7,4 +7,5 @@ before_script:
  - git clone https://github.com/szbpsz/theme.git tmp
  - cp -r tmp/* ./
  - rm -r -f tmp
+ - bundle install
 script: jekyll build
