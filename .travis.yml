@@ -8,4 +8,7 @@ before_script:
  - cp -r tmp/* ./
  - rm -r -f tmp
  - bundle install
-script: jekyll build
+script: bundle exec jekyll build
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
