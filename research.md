@@ -2,7 +2,7 @@
 layout: page
 title: Kutatási projektek
 tags: [research]
-date: 2018-11-15
+date: 2018-11-06
 comments: false
 ---
 
