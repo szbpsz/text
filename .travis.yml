@@ -1,3 +1,8 @@
+# --------------------
+# !! NE NYULJ HOZZA !!
+# --------------------
+# Ez a configuracio teszi fel az uj verziokat
+
 language: ruby
 rvm:
 - 2.4.1
