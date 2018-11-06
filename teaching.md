@@ -2,7 +2,7 @@
 layout: page
 title: Oktatás
 tags: [teaching, oktatas, pazmany, PPKE]
-date: 2018-08-24
+date: 2018-11-06
 comments: false
 ---
 
