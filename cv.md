@@ -7,26 +7,29 @@ comments: false
 ---
 
 ## Végzettség
-- 2006- 2018: __PhD fokozat__
-    - ELTE Pszichológiatudományi Doktori Iskola 1064 Budapest Izabella u. 46.
-    - Szocializáció és társadalmi folyamatok képzési program 
-    - Védés időpontja: 2018.06.27.  Minősítés: summa cum laude
+2006- 2018: __PhD fokozat__
+- ELTE Pszichológiatudományi Doktori Iskola 1064 Budapest Izabella u. 46.
+- Szocializáció és társadalmi folyamatok képzési program 
+- Védés időpontja: 2018.06.27.  Minősítés: summa cum laude
 - 2001- 2006: __Okleveles pszichológus__
-    - SZTE BTK 6722 Szeged Egyetem u. 22.
-    - Szociál- és szervezetpszichológia; személyiség- és klinikai pszichológia szakirány
+- SZTE BTK 6722 Szeged Egyetem u. 22.
+- Szociál- és szervezetpszichológia; személyiség- és klinikai pszichológia szakirány
 
 ## Szakmai tapasztalat
-- 2017-  __Pázmány Péter Katolikus Egyetem BTK Pszichológiai Intézet__
-    - Egyetemi tanársegéd
-    - Oktatott kurzusok:  Fejlődéslélektan 1-2. gyakorlat, Gyermekvédelem és pszichológia,  Kommunikációs készségfejlesztés, Fejlődéslélektan műhelymunka
-- 2006- __Alapítvány az Örökbefogadó és Nevelőszülőkért__
-    - Pszichológus
-    - Nevelőszülőknél élő gyerekek pszichológiai megsegítése (egyéni és csoportos foglalkozások, tábor, önismereti csoport, filmklub szervezése)
-    - Nevelőszülők alkalmassági vizsgálata, képzése, továbbképzése, tanácsadás 
-- 2006 - 2010 __ELTE PPK Társadalom- és Neveléspszichológia Tanszék__
-    - Óraadó, majd egyetemi tanársegéd 
-    - Oktatott kurzusok: Szociálpszichológia 1-2. gyakorlat, Kutatásmódszertan gyakorlat, Tanulási és Kommunikációs készségfejlesztés, Fejlődéslélektan 1-2. gyakorlat, Gyermekvédelem és pszichológia, Tanári kommunikáció és személyiségfejlesztés
-- 2009 - 2010, 2016 __Szegedi Tudományegyetem, Pszichológiai Intézet__
+2017-  __Pázmány Péter Katolikus Egyetem BTK Pszichológiai Intézet__
+- Egyetemi tanársegéd
+- Oktatott kurzusok:  Fejlődéslélektan 1-2. gyakorlat, Gyermekvédelem és pszichológia,  Kommunikációs készségfejlesztés, Fejlődéslélektan műhelymunka
+
+2006- __Alapítvány az Örökbefogadó és Nevelőszülőkért__
+- Pszichológus
+- Nevelőszülőknél élő gyerekek pszichológiai megsegítése (egyéni és csoportos foglalkozások, tábor, önismereti csoport, filmklub szervezése)
+- Nevelőszülők alkalmassági vizsgálata, képzése, továbbképzése, tanácsadás 
+
+2006 - 2010 __ELTE PPK Társadalom- és Neveléspszichológia Tanszék__
+- Óraadó, majd egyetemi tanársegéd 
+- Oktatott kurzusok: Szociálpszichológia 1-2. gyakorlat, Kutatásmódszertan gyakorlat, Tanulási és Kommunikációs készségfejlesztés, Fejlődéslélektan 1-2. gyakorlat, Gyermekvédelem és pszichológia, Tanári kommunikáció és személyiségfejlesztés
+
+2009 - 2010, 2016 __Szegedi Tudományegyetem, Pszichológiai Intézet__
   - Egyetemi tanársegéd, megbízott oktató
   - Oktatott kurzusok: Fejlődéslélektan 1. előadás, gyakorlat, Fejlődéslélektani kutatásmódszertan, Kommunikáció és konfliktuskezelés az iskolában, Differenciált kutatásmódszertan
 - 2006 - 2008 __Kecskeméti Nevelési Tanácsadó__
@@ -60,5 +63,6 @@ __Fontosabb konferenciák__
 1. 8th Alps Adria Psychology Conference, Ljubljana, Szlovénia, 2008. október: Előadó (angol nyelven)
 1. 11th Annual CICE Network Conference, Malmö, Svédország, 2009. május: Poszter
 1. 4th Annual Research Student Conference, Malmö, Svédország, 2009. május: Előadó (angol nyelven) 
-	További 12 hazai és 4 nemzetközi konferencia
+
+További 12 hazai és 4 nemzetközi konferencia
 
