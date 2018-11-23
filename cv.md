@@ -7,13 +7,13 @@ comments: false
 ---
 
 ## Végzettség
-2006- 2018: __PhD fokozat__
-- ELTE Pszichológiatudományi Doktori Iskola 1064 Budapest Izabella u. 46.
+2018: __PhD fokozat__
+- ELTE Pszichológiatudományi Doktori Iskola
 - Szocializáció és társadalmi folyamatok képzési program 
 - Védés időpontja: 2018.06.27.  Minősítés: summa cum laude
 
 2001- 2006: __Okleveles pszichológus__
-- SZTE BTK 6722 Szeged Egyetem u. 22.
+- SZTE BTK
 - Szociál- és szervezetpszichológia; személyiség- és klinikai pszichológia szakirány
 
 ## Szakmai tapasztalat

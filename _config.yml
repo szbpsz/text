@@ -1,8 +1,8 @@
 # A weboldal konfiguracioja, ovatosan valtoztasd
 
-title:              Szabó Beáta
-bio:                'Valami egysoros szoveg ide?'
-description:        "Ide is valami szoveg kene"
+title:              Dr. Szabó Beáta (PhD)
+bio:                pszichológus, egyetemi adjunktus
+#description:        "Ide is valami szoveg kene"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
