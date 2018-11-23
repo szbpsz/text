@@ -11,7 +11,8 @@ comments: false
 - ELTE Pszichológiatudományi Doktori Iskola 1064 Budapest Izabella u. 46.
 - Szocializáció és társadalmi folyamatok képzési program 
 - Védés időpontja: 2018.06.27.  Minősítés: summa cum laude
-- 2001- 2006: __Okleveles pszichológus__
+
+2001- 2006: __Okleveles pszichológus__
 - SZTE BTK 6722 Szeged Egyetem u. 22.
 - Szociál- és szervezetpszichológia; személyiség- és klinikai pszichológia szakirány
 
@@ -32,10 +33,10 @@ comments: false
 2009 - 2010, 2016 __Szegedi Tudományegyetem, Pszichológiai Intézet__
   - Egyetemi tanársegéd, megbízott oktató
   - Oktatott kurzusok: Fejlődéslélektan 1. előadás, gyakorlat, Fejlődéslélektani kutatásmódszertan, Kommunikáció és konfliktuskezelés az iskolában, Differenciált kutatásmódszertan
-- 2006 - 2008 __Kecskeméti Nevelési Tanácsadó__
-    - Pszichológus
-    - Pszichológiai tanácsadás
-    - Egyéni és csoportos foglalkozások vezetése
+2006 - 2008 __Kecskeméti Nevelési Tanácsadó__
+  - Pszichológus
+  - Pszichológiai tanácsadás
+  - Egyéni és csoportos foglalkozások vezetése
 
 ## Személyes készségek
  __Anyanyelve:__ Magyar
@@ -55,6 +56,7 @@ __Díjak és kitüntetések__
 2. Szeged Város Ösztöndíj, Köztársasági Ösztöndíj (2004-2006)
 3. Pro Renovada Cultura Hungariae  “Diákok a Tudományért” szakalapítvány ösztöndíja (2006)
 4. 4th Annual Research Student Conference, Svédország Best Paper Award (2009)
+
 __Fontosabb konferenciák__	
 1. OTDK Győr  2005. március: I. helyezett Alkalmazott- és Szociálpszichológia Alszekcióban
 1. MPT  XVII. Országos Tudományos Nagygyűlése Bp. 2006. május: Előadó
