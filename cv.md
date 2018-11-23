@@ -32,7 +32,8 @@ comments: false
 
 2009 - 2010, 2016 __Szegedi Tudományegyetem, Pszichológiai Intézet__
   - Egyetemi tanársegéd, megbízott oktató
-  - Oktatott kurzusok: Fejlődéslélektan 1. előadás, gyakorlat, Fejlődéslélektani kutatásmódszertan, Kommunikáció és konfliktuskezelés az iskolában, Differenciált kutatásmódszertan
+  - Oktatott kurzusok: Fejlődéslélektan 1. előadás, gyakorlat, Fejlődéslélektani kutatásmódszertan, Kommunikáció és konfliktuskezelés az iskolában, Differenciált 
+
 2006 - 2008 __Kecskeméti Nevelési Tanácsadó__
   - Pszichológus
   - Pszichológiai tanácsadás
