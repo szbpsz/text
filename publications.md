@@ -20,4 +20,3 @@ comments: false
 12. SZABÓ B. (2015). __Hátrahagyott hátrányok.__ In: HARSÁNYI SZ. G., SZABÓ B. (szerk.) Pro Scientia Aranyérmesek XII. Konferenciája – Konferencia Kötet. Budapest, 33-36.
 13.	SZABÓ B. (2017). __Jobban menne az életem, ha…__ In Nagy N., Tóbi I. (szerk.) Pro Scientia Aranyérmesek XIII. Konferenciája – Konferencia Kötet, Pécs
 14. RIBICZEY N., SZABÓ B., JÁRMI É. (2018): __Bullying az óvodában - Az óvodai bántalmazás sajátosságai.__ Alkalmazott Pszichológia. 18(1), 91–112.
-19. **Teszt** publikacio
