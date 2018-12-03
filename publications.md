@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publikációk
-tags: [cv]
+tags: [cv, oneletrajz]
 date: 2018-11-06
 comments: false
 ---
