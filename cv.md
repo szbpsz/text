@@ -7,6 +7,10 @@ comments: false
 ---
 
 ## Végzettség
+2024: __Tanácsadó szakpszichológus__
+- ELTE PPK Tanácsadó Szakpszichológus Szakirányú Továbbképzés
+- Védés időpontja: 2024.01.19.  Minősítés: summa cum laude
+  
 2018: __PhD fokozat__
 - ELTE Pszichológiatudományi Doktori Iskola
 - Szocializáció és társadalmi folyamatok képzési program 
@@ -17,11 +21,14 @@ comments: false
 - Szociál- és szervezetpszichológia; személyiség- és klinikai pszichológia szakirány
 
 ## Szakmai tapasztalat
+2024-__Károli Gáspár Református Egyetem BTK Pszichológiai Intézet__
+- óraadó
+  
 2017-  __Pázmány Péter Katolikus Egyetem BTK Pszichológiai Intézet__
-- Egyetemi tanársegéd
+- Egyetemi adjunktus
 - Oktatott kurzusok:  Fejlődéslélektan 1-2. gyakorlat, Gyermekvédelem és pszichológia,  Kommunikációs készségfejlesztés, Fejlődéslélektan műhelymunka
 
-2006- __Alapítvány az Örökbefogadó és Nevelőszülőkért__
+2006-2017- __Alapítvány az Örökbefogadó és Nevelőszülőkért__
 - Pszichológus
 - Nevelőszülőknél élő gyerekek pszichológiai megsegítése (egyéni és csoportos foglalkozások, tábor, önismereti csoport, filmklub szervezése)
 - Nevelőszülők alkalmassági vizsgálata, képzése, továbbképzése, tanácsadás 
