@@ -43,7 +43,6 @@ jobs:
         run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
-      - uses: actions/checkout@v4
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
